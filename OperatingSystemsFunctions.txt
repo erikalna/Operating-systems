@@ -1,0 +1,4 @@
+Operating system is kind of the brain of a computer.
+It is the manager of the software and hardware used.
+Operating system is the mastermind of any computer
+It controls base functions of a computer.
