@@ -6,3 +6,7 @@ It controls base functions of a computer.
 WINDOWS OS is the most common operating system
 I have used this operating system since I had my first computer
 My recent version is Windows 10
+
+I have tried to use MAC OS but it seems more complicated and different
+I know it is better for designers
+Probably one day I wil change to a MAC.
