@@ -2,3 +2,7 @@ Operating system is kind of the brain of a computer.
 It is the manager of the software and hardware used.
 Operating system is the mastermind of any computer
 It controls base functions of a computer.
+
+WINDOWS OS is the most common operating system
+I have used this operating system since I had my first computer
+My recent version is Windows 10
